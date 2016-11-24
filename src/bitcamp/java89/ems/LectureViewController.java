@@ -1,12 +1,8 @@
-package bitcamp.java89.ems.Lecturecontroller;
+package bitcamp.java89.ems;
 
 import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import bitcamp.java89.ems.Command;
-import bitcamp.java89.ems.dao.LectureDao;
-import bitcamp.java89.ems.vo.Lecture;
 
 public class LectureViewController implements Command {
 

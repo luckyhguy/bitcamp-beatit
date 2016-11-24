@@ -1,4 +1,4 @@
-package bitcamp.java89.ems.dao;
+package bitcamp.java89.ems;
 
 import java.io.EOFException;
 import java.io.FileInputStream;
@@ -6,8 +6,6 @@ import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
-
-import bitcamp.java89.ems.vo.Lecture;
 
 public class LectureDao {
   static LectureDao obj;
